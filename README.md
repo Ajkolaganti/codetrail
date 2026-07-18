@@ -6,21 +6,23 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 1
+- Total problems solved: 2
 - Easy problems: 1
-- Medium problems: 0
+- Medium problems: 1
 - Hard problems: 0
-- Languages used: 1
+- Languages used: 2
 - Last submission date: July 17, 2026
 
 ## Recent Solutions
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Add Two Numbers](medium/add-two-numbers/README.md) | Medium | 1 | [Code](medium/add-two-numbers/solution.txt) | Jul 17, 2026 |
 | [Two Sum](easy/two-sum/README.md) | Easy | Java | [Code](easy/two-sum/solution.java) | Jul 17, 2026 |
 
 ## Language Breakdown
 
+- 1: 1
 - Java: 1
 
 ## Topic Progress
