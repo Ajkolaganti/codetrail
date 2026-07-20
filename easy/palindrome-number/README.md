@@ -1,7 +1,7 @@
 # Palindrome Number
 
 - Difficulty: Easy
-- Language: C++
+- Language: Java
 - Platform: LeetCode
 - Problem: [View on LeetCode](https://leetcode.com/problems/palindrome-number/)
 - Submitted: July 19, 2026
