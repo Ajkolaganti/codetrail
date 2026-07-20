@@ -6,22 +6,24 @@ A record of my data structures and algorithms practice. This repository is autom
 
 ## Progress
 
-- Total problems solved: 1
-- Easy problems: 1
+- Total problems solved: 2
+- Easy problems: 2
 - Medium problems: 0
 - Hard problems: 0
-- Languages used: 1
+- Languages used: 2
 - Last submission date: July 19, 2026
 
 ## Recent Solutions
 
 | Problem | Difficulty | Language | Solution | Date |
 |---------|------------|----------|----------|------|
+| [Palindrome Number](easy/palindrome-number/README.md) | Easy | Java | [Code](easy/palindrome-number/solution.java) | Jul 19, 2026 |
 | [Palindrome Number](easy/palindrome-number/README.md) | Easy | C++ | [Code](easy/palindrome-number/solution.cpp) | Jul 19, 2026 |
 
 ## Language Breakdown
 
 - C++: 1
+- Java: 1
 
 ## Topic Progress
 
